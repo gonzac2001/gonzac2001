@@ -1,0 +1,52 @@
+
+
+#main-header {
+  background-color: #3e32ad;
+  text-align: center;
+  padding: 1rem;
+}
+
+
+#main-footer {
+  background-color: #3e32ad;
+  text-align: center;
+  padding: 0.5rem;
+  margin-top: 2rem;
+}
+
+
+.contenedor {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.presentacion {
+  margin-bottom: 2rem;
+}
+
+.texto-destacado {
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+.lista-proyectos {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item-proyecto {
+  margin: 0.5rem 0;
+}
+
+.imagen-perfil {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.foto-clase {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+}
+
